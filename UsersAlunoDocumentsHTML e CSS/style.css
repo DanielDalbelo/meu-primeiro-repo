@@ -1,0 +1,28 @@
+<style>
+.divA{
+    width: 250px;
+    height: 250px;
+    background-color: #aa1333;
+}
+.divB{
+    width: 55%;
+    height: 55%;
+    background-color: #55af33;
+}
+.pC{
+    text-emphasis-color: blue;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: monospace;
+    font-style: bold;
+}
+.divD{
+    width: 60%;
+    background-color: rgb(38, 50, 120);
+    height: 78vh;
+}
+.divE{
+    height: 60%;
+    background-color: rgb(000, 255, 000);
+    width: 75vw;
+}
